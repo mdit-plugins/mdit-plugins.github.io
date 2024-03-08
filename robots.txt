@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://mdit-plugins.mister-hope.com/sitemap.xml
