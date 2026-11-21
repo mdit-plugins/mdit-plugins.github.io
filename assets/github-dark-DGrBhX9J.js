@@ -1,0 +1,1 @@
+var e=`/github-light.png`,t=`/github-dark.png`;export{e as n,t};
